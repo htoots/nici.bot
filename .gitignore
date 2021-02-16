@@ -1,3 +1,16 @@
+# Custom
+.DS_Store
+info.md
+
+# Config files
+config.json
+creds.json
+
+# Example Data
+exampleData
+
+# End Custom
+
 # Logs
 logs
 *.log
